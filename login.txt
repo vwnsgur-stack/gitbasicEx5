@@ -1,2 +1,5 @@
 login view make
 login input form make
+
+login input func
+send func
